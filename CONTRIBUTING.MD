@@ -12,7 +12,7 @@ To contribute to this project, please follow these guidelines:
 - [Coding Conventions](#coding-conventions)
 - [Documentation](#documentation)
   Hello this is ashutosh from Backend-development team !!
-  I am good at java, Mern, MySql and Dsa !
+  I am good at open source contr.
 
 ## Reporting Issues
 
